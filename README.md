@@ -1,4 +1,5 @@
-### Hi there 👋
+# Lina Marcela Lopez👋
+Alta vocación de servicio, sentido de pertenencia, trabajo con calidad y honestidad, trabajo en equipo, concentración, confidencialidad en el manejo de la información, adaptación al cambio y motivación por el aprendizaje. 
 
 <!--
 **marcelalmlm/marcelalmlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
