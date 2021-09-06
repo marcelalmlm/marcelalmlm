@@ -3,11 +3,10 @@ Alta vocación de servicio, sentido de pertenencia, trabajo con calidad y honest
 
 ## :email: marcelitalmlm@gmail.com
 
-#### :information_desk_person: Datos Personales.
+#### :information_desk_person: Datos Persona
 
 
-- 🌱 Actualmente estoy aprendiendo    Edicion web
-- :baby: Fecha de nacimiento            Marzo 12 1985
+- :baby: Fecha de nacimiento           Marzo 12 1985
 - :earth_americas: Ciudad de nacimiento   Medellin - Colombia                   
 - :woman: Estado civil  Soltera
 
