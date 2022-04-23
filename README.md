@@ -6,8 +6,7 @@ Alta vocación de servicio, sentido de pertenencia, trabajo con calidad y honest
 #### :information_desk_person: Datos Persona
 
 
-- :baby: Fecha de nacimiento           Marzo 12 1985
-- :earth_americas: Ciudad de nacimiento   Medellin - Colombia                   
+- :baby: Fecha de nacimiento           Marzo 12                    
 - :woman: Estado civil  Soltera
 
 
